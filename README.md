@@ -1,1 +1,1 @@
-# distribution_of_multiplication
+# Distribution of Multiplication
